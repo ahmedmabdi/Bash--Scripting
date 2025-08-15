@@ -1,10 +1,10 @@
-# 🐚 Bash Scripting Journey (CoderCo + Battle Bash Arena)
+# Bash Scripting Journey (CoderCo + Battle Bash Arena)
 
 Welcome to my Bash scripting learning project! This repository documents my progress through the **Bash Scripting module at CoderCo** and my hands-on challenge with the **Battle Bash Arena (BBA)** — a game featuring 15 progressively harder Bash scripting problems.
 
 ---
 
-## 📘 What I Learned at CoderCo
+## What I Learned at CoderCo
 
 Through the Bash scripting module, I mastered the following:
 
@@ -19,7 +19,7 @@ Through the Bash scripting module, I mastered the following:
 
 ---
 
-## 🧩 Battle Bash Arena (BBA)
+## Battle Bash Arena (BBA)
 
 After finishing the theory and practice at CoderCo, I took on the **Battle Bash Arena** — a 15-level game to test and solidify my Bash scripting skills.
 
@@ -29,7 +29,7 @@ Each level presents a challenge that must be solved using a Bash script. I’ve 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```bash
 bash-scripting-journey/
